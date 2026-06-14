@@ -37,6 +37,12 @@ A web UI for local music generation
 <img width="1790" height="1002" alt="image" src="https://github.com/user-attachments/assets/b24335bc-46ae-4b4e-9b54-ce5032ac2944" />
 
 *My Library, dark mode*
+<img width="1790" height="1002" alt="image" src="https://github.com/user-attachments/assets/6d8619b9-e4e8-410b-8f20-66a70e197565" />
+
+*The player, dark mode*
+<img width="874" height="179" alt="image" src="https://github.com/user-attachments/assets/3aedb845-ab0e-4b43-9e32-210b5fdb03e9" />
+
+*The mini player, dark mode*
 # ❓ What is PlamiumAI Studio?
 PlamiumAI Studio is the sleek web UI for local music generation that is actually usable. On one hand, we have the typical local music generation GUI - unlimited & private, but looks like an admin console from 2015 and requires a ton of knowledge to use it properly. On the other hand, we have cloud-based AI music generation services - user-friendly, sleek and modern, but they have less privacy and either enforce a paid subscription, or have strict limits. **Why not have both?** PlamiumAI Studio is 100% local, runs fully on your own hardware, but is also very simple to navigate and looks good.
 <img width="1790" height="1006" alt="image" src="https://github.com/user-attachments/assets/a0eb4b07-3730-4266-a5a1-36d81910c22b" />
