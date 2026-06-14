@@ -4,6 +4,7 @@ A web UI for local music generation
 # You can always join our Discord server at https://discord.gg/tBSYJQQyR
 
 # [Installation Guide](installation_guide.md)
+
 # 🖼️ Screenshots
 <img width="1791" height="1007" alt="image" src="https://github.com/user-attachments/assets/2594c9e2-7d01-4908-86e7-05350bfad5c2" />
 
