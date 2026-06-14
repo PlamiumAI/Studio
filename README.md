@@ -5,6 +5,8 @@ A web UI for local music generation
 
 # [Installation Guide](installation_guide.md)
 
+# NOTICE! This app is in it's early beta stage. Things WILL break, and the code has some skeleton leftovers from features that were added, then removed, but not removed completely.
+
 # 🖼️ Screenshots
 <img width="1791" height="1007" alt="image" src="https://github.com/user-attachments/assets/2594c9e2-7d01-4908-86e7-05350bfad5c2" />
 
