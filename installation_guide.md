@@ -17,7 +17,7 @@ git clone https://github.com/PlamiumAI/Studio.git plamiumai_studio && cd plamium
 The script expects the two music engines to live as subfolders right next to it, because on startup it adds `./audiocraft` and `./ACE-Step-1.5` to the Python path. Your finished layout should look like this:
 
 ```
-PlamiumAI/
+plamiumai_studio/
 ├── app.py                ← the main script
 ├── audiocraft/           ← the MusicGen engine (you'll clone this)
 ├── ACE-Step-1.5/         ← the ACE-Step engine (you'll clone this)
