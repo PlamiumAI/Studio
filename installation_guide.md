@@ -1,5 +1,5 @@
 # PlamiumAI Studio — Installation Guide (Beta)
-
+# Notice: It is not guaranteed that the steps in this guide will even work. If you experience any errors, which you likely will, feedback will be very appreciated. You can report anything in our Discord server: https://discord.gg/tBSYJQQyR
 PlamiumAI Studio is a Flask web application for generating AI music. It can produce full tracks with two different engines (MusicGen and ACE-Step), create album cover art with Stable Diffusion, separate songs into stems, and help you design songs through an AI chat assistant powered by Google Gemini, Cerebras, or a local Ollama model.
 
 This guide walks you through getting it running from scratch.
