@@ -8,7 +8,10 @@ This guide walks you through getting it running from scratch.
 
 You should have Python 3.10 or 3.11 installed. Some of the machine-learning dependencies are slow to support newer versions, so those two are the safest choices. The application will use a CUDA GPU automatically if one is available, but it falls back to the CPU otherwise, so a GPU is helpful but not required. Plan for at least 8 GB of RAM (16 GB or more is more comfortable), and keep several gigabytes of disk space free for the model checkpoints, which are fairly large.
 # Notice: The owner and developer of this project DOES NOT have a CUDA GPU. This program has been only tested on CPU, meaning we don't know if it will work properly for those who do have a GPU. Report any bugs to v2_0s on Discord.
-
+# First, pull this project:
+```bash
+git clone https://github.com/PlamiumAI/Studio.git plamiumai_studio && cd plamiumai_studio
+```
 ## Setting up the project folder
 
 The script expects the two music engines to live as subfolders right next to it, because on startup it adds `./audiocraft` and `./ACE-Step-1.5` to the Python path. Your finished layout should look like this:
