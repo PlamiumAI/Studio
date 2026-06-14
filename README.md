@@ -24,4 +24,5 @@ Currently, the app supports 4 models:
 # Meta MusicGen Medium;
 # Meta MusicGen Melody (will likely be phased out).
 <img width="773" height="448" alt="image" src="https://github.com/user-attachments/assets/1949baaa-7e03-410e-9934-0d42147a3c90" />
+
 **Do we plan to add a model marketplace?** No. We want to keep things simple & stable. If we add a marketplace, the app will instantly become more complex, and turn from an AI music generation studio into a complex machine learning workspace. However, we do plan to add support for some more models. I plan to also add the support for ACE Step 1.5 4B XL, but I will be unable to test it since my hardware already nearly chokes at the 0.6B version. Volunteers to test it out in the future are welcome.
