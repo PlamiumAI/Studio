@@ -56,3 +56,5 @@ Currently, the app supports 4 models:
 <img width="773" height="448" alt="image" src="https://github.com/user-attachments/assets/1949baaa-7e03-410e-9934-0d42147a3c90" />
 
 **Do we plan to add a model marketplace?** No. We want to keep things simple & stable. If we add a marketplace, the app will instantly become more complex, and turn from an AI music generation studio into a complex machine learning workspace. However, we do plan to add support for some more models. I plan to also add the support for ACE Step 1.5 4B XL, but I will be unable to test it since my hardware already nearly chokes at the 0.6B version. Volunteers to test it out in the future are welcome.
+# Are there any extra features?
+Yes, there are. We also support image generation & cover art (for songs) generation (both don't exactly use the best model). The support for image generation was initially added for cover art, but I decided, why not also allow users to generate images on their own?
